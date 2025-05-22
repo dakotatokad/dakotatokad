@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**dakotatokad/dakotatokad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dakota
 
-Here are some ideas to get you started:
+I'm a Systems Architect diving deeper into development and AI/ML. I'm all about clean design, practical automation, and building tools that solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Currently Learning
+
+- Python 🐍
+- AI/ML 🤖
+- HTML, CSS, JS 🌐
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Python-based tools and utilities
+- Small AI/ML projects
+
+---
+
+## 📬 Reach Out
+
+I'm open to collabs, feedback, or just chatting about tech and ideas. Feel free to connect via GitHub Issues or Discussions.
+
+---
+
+## ⚡ Fun Fact
+
+I run on curiosity, caffeine, and "what if we automated that?"
