@@ -7,7 +7,7 @@ I'm a Systems Architect diving deeper into development and AI/ML as a hobby. I'm
 
 ## Current Projects
 
-- [HellBot](https://github.com/dakotatokad/hellbot) 🔥 - Bring General Brasch into your Disord server.
+- [HellBot](https://github.com/dakotatokad/hellbot) 🔥 - Bring General Brasch from Helldivers into your Disord server.
 ---
 
 ## 🚧 Currently Learning
