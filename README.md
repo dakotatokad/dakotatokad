@@ -1,8 +1,13 @@
 
 # 👋 Hi, I'm Dakota
 
-I'm a Systems Architect diving deeper into development and AI/ML. I'm all about clean design, practical automation, and building tools that solve problems.
+I'm a Systems Architect diving deeper into development and AI/ML as a hobby. I'm all about clean design, practical automation, and building tools that solve problems.
 
+---
+
+## Current Projects
+
+- [HellBot](https://github.com/dakotatokad/hellbot) 🔥 - Bring General Brasch into your Disord server.
 ---
 
 ## 🚧 Currently Learning
