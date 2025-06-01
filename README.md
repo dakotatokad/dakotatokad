@@ -20,6 +20,12 @@ I'm a Systems Architect diving deeper into development and AI/ML as a hobby. I'm
 
 ---
 
+![dakotatokad's Stats](https://github-readme-stats.vercel.app/api?username=dakotatokad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![dakotatokad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakotatokad&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+---
+
 ## 📬 Reach Out
 
 I'm open to collabs, feedback, or just chatting about tech and ideas. Feel free to connect via GitHub Issues or Discussions.
